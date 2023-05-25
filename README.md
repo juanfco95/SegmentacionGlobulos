@@ -1,1 +1,2 @@
-# SegmentacionGlobulos
+# Práctica de segmentación de imagenes
+En esta práctica se realiza una comparativa entre los resultados obtenidos para segmentar imágenes médicas usando U-net y otra red neuronal convolucional distinta. En este caso la red convolucional implementada a parte de la propia U-net se basó en el siguiente paper https://www.researchgate.net/publication/343691111_Efficient_identification_localization_and_quantification_of_grapevine_inflorescences_and_flowers_in_unprepared_field_images_using_Fully_Convolutional_Networks#pf4 ya que los problemas eran similares, debido a que esta red se creó para segmentar imagenes de racimos de uva, y en nuestro caso segmentabamos imágenes médicas de globulos rojos. 
